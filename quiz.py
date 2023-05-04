@@ -103,4 +103,4 @@ else:
     print("Eminem might think that there are words that rhyme with orange but, he is wrong ")
 
 print("You got " + str(score) + " questions correct! ")
-print("You got " + str((score / 10) * 100) + " % questions correct! ")
+print("You got " + str((score / 10) * 100) + "% ")
